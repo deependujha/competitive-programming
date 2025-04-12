@@ -18,8 +18,8 @@ markup:
 
 menu:
   main:
-    - name: Roadmap
-      pageRef: /roadmap
+    - name: Strategy
+      pageRef: /strategy
       weight: 1
     - name: Docs
       pageRef: /docs
